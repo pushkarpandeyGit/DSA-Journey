@@ -1,33 +1,34 @@
 # DSA Journey
 
-This is my DSA practice repository.
+This repository contains my daily DSA practice and LeetCode solutions as I prepare for coding interviews.
 
-I am using this repository to keep track of the LeetCode problems I solve while preparing for coding interviews.
+I am using this repository to track my progress, learn different problem-solving patterns, and improve my understanding of algorithms and data structures through consistent practice.
 
-I will be adding my solutions regularly and organizing them based on different DSA topics.
-
-## Topics
+## What I'm Practicing
 
 - Arrays
 - Strings
-- Linked List
+- Linked Lists
 - Binary Search
 - Stack & Queue
 - Trees
 - Graphs
 - Greedy
 - Dynamic Programming
+- Other Data Structures and Algorithms
 
-## What I include
+## My Approach
 
-For each problem, I try to keep:
+For each problem, I focus on:
 
-- My approach
-- Time complexity
-- Space complexity
-- C++ solution
+- Understanding the problem
+- Finding an efficient approach
+- Writing a clean solution
+- Understanding the time and space complexity
+- Learning from mistakes and improving with practice
 
-This repository is mainly a record of my learning and progress in DSA.
+This repository is a record of my continuous learning and progress in DSA.
+
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
