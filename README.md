@@ -37,6 +37,7 @@ This repository is a record of my continuous learning and progress in DSA.
 | ------- | ------- |
 | [0001-two-sum](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0001-two-sum/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -50,4 +51,8 @@ This repository is a record of my continuous learning and progress in DSA.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1386-cinema-seat-allocation](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1386-cinema-seat-allocation/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 <!---LeetCode Topics End-->
