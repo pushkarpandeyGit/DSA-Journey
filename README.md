@@ -73,4 +73,8 @@ This repository is a record of my continuous learning and progress in DSA.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1048-longest-string-chain](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1048-longest-string-chain/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 <!---LeetCode Topics End-->
