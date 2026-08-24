@@ -68,6 +68,7 @@ This repository is a record of my continuous learning and progress in DSA.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1048-longest-string-chain](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1048-longest-string-chain/) | Medium |
+| [1106-parsing-a-boolean-expression](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1106-parsing-a-boolean-expression/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -96,4 +97,12 @@ This repository is a record of my continuous learning and progress in DSA.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1106-parsing-a-boolean-expression](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1106-parsing-a-boolean-expression/) | Hard |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1106-parsing-a-boolean-expression](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1106-parsing-a-boolean-expression/) | Hard |
 <!---LeetCode Topics End-->
