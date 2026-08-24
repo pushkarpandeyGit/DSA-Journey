@@ -67,11 +67,13 @@ This repository is a record of my continuous learning and progress in DSA.
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0132-palindrome-partitioning-ii](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0132-palindrome-partitioning-ii/) | Hard |
 | [1048-longest-string-chain](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1048-longest-string-chain/) | Medium |
 | [1106-parsing-a-boolean-expression](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1106-parsing-a-boolean-expression/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0132-palindrome-partitioning-ii](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0132-palindrome-partitioning-ii/) | Hard |
 | [0312-burst-balloons](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0312-burst-balloons/) | Hard |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [1048-longest-string-chain](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1048-longest-string-chain/) | Medium |
