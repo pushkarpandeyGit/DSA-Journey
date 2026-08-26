@@ -40,6 +40,7 @@ This repository is a record of my continuous learning and progress in DSA.
 | [0673-number-of-longest-increasing-subsequence](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [1043-partition-array-for-maximum-sum](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1043-partition-array-for-maximum-sum/) | Medium |
 | [1048-longest-string-chain](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1048-longest-string-chain/) | Medium |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
@@ -82,6 +83,7 @@ This repository is a record of my continuous learning and progress in DSA.
 | [0673-number-of-longest-increasing-subsequence](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [1043-partition-array-for-maximum-sum](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1043-partition-array-for-maximum-sum/) | Medium |
 | [1048-longest-string-chain](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1048-longest-string-chain/) | Medium |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
@@ -116,4 +118,8 @@ This repository is a record of my continuous learning and progress in DSA.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 <!---LeetCode Topics End-->
