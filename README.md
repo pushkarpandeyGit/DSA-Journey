@@ -73,6 +73,7 @@ This repository is a record of my continuous learning and progress in DSA.
 | [0132-palindrome-partitioning-ii](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0132-palindrome-partitioning-ii/) | Hard |
 | [1048-longest-string-chain](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1048-longest-string-chain/) | Medium |
 | [1106-parsing-a-boolean-expression](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1106-parsing-a-boolean-expression/) | Hard |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -111,4 +112,8 @@ This repository is a record of my continuous learning and progress in DSA.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1106-parsing-a-boolean-expression](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1106-parsing-a-boolean-expression/) | Hard |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 <!---LeetCode Topics End-->
