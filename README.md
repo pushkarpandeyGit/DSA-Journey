@@ -81,6 +81,7 @@ This repository is a record of my continuous learning and progress in DSA.
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0038-count-and-say](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0038-count-and-say/) | Medium |
 | [0132-palindrome-partitioning-ii](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0132-palindrome-partitioning-ii/) | Hard |
 | [0208-implement-trie-prefix-tree](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
