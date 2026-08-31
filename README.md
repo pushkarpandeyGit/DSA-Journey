@@ -61,6 +61,7 @@ This repository is a record of my continuous learning and progress in DSA.
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 ## Bit Manipulation
@@ -82,6 +83,7 @@ This repository is a record of my continuous learning and progress in DSA.
 | ------- | ------- |
 | [0132-palindrome-partitioning-ii](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0132-palindrome-partitioning-ii/) | Hard |
 | [0208-implement-trie-prefix-tree](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1048-longest-string-chain](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1048-longest-string-chain/) | Medium |
 | [1106-parsing-a-boolean-expression](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1106-parsing-a-boolean-expression/) | Hard |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
@@ -120,6 +122,7 @@ This repository is a record of my continuous learning and progress in DSA.
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1106-parsing-a-boolean-expression](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1106-parsing-a-boolean-expression/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
@@ -151,4 +154,8 @@ This repository is a record of my continuous learning and progress in DSA.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 <!---LeetCode Topics End-->
