@@ -48,6 +48,7 @@ This repository is a record of my continuous learning and progress in DSA.
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -57,6 +58,7 @@ This repository is a record of my continuous learning and progress in DSA.
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [1048-longest-string-chain](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1048-longest-string-chain/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -70,6 +72,7 @@ This repository is a record of my continuous learning and progress in DSA.
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1707-maximum-xor-with-an-element-from-array/) | Hard |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -137,6 +140,7 @@ This repository is a record of my continuous learning and progress in DSA.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -159,4 +163,8 @@ This repository is a record of my continuous learning and progress in DSA.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 <!---LeetCode Topics End-->
