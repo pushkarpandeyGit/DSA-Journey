@@ -52,6 +52,7 @@ This repository is a record of my continuous learning and progress in DSA.
 | [3718-smallest-missing-multiple-of-k](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3903-smallest-stable-index-i](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -188,4 +189,8 @@ This repository is a record of my continuous learning and progress in DSA.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0686-repeated-string-match](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0686-repeated-string-match/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3903-smallest-stable-index-i](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/3903-smallest-stable-index-i/) | Easy |
 <!---LeetCode Topics End-->
