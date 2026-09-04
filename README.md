@@ -83,10 +83,12 @@ This repository is a record of my continuous learning and progress in DSA.
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [1048-longest-string-chain](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1048-longest-string-chain/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0038-count-and-say](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0038-count-and-say/) | Medium |
 | [0132-palindrome-partitioning-ii](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0132-palindrome-partitioning-ii/) | Hard |
 | [0208-implement-trie-prefix-tree](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0208-implement-trie-prefix-tree/) | Medium |
@@ -177,21 +179,25 @@ This repository is a record of my continuous learning and progress in DSA.
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0686-repeated-string-match](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0686-repeated-string-match/) | Medium |
 | [1392-longest-happy-prefix](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1392-longest-happy-prefix/) | Hard |
 ## Z Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0686-repeated-string-match](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0686-repeated-string-match/) | Medium |
 | [1392-longest-happy-prefix](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1392-longest-happy-prefix/) | Hard |
 ## Knuth–Morris–Pratt Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0686-repeated-string-match](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0686-repeated-string-match/) | Medium |
 | [1392-longest-happy-prefix](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1392-longest-happy-prefix/) | Hard |
 ## Boyer–Moore String-Search Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0686-repeated-string-match](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0686-repeated-string-match/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
