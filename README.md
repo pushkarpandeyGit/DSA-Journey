@@ -45,6 +45,7 @@ This repository is a record of my continuous learning and progress in DSA.
 | [1386-cinema-seat-allocation](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1707-maximum-xor-with-an-element-from-array/) | Hard |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
