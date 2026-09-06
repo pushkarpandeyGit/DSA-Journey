@@ -91,6 +91,7 @@ This repository is a record of my continuous learning and progress in DSA.
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0038-count-and-say](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0038-count-and-say/) | Medium |
+| [0115-distinct-subsequences](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0115-distinct-subsequences/) | Hard |
 | [0132-palindrome-partitioning-ii](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0132-palindrome-partitioning-ii/) | Hard |
 | [0208-implement-trie-prefix-tree](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0686-repeated-string-match](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0686-repeated-string-match/) | Medium |
@@ -102,6 +103,7 @@ This repository is a record of my continuous learning and progress in DSA.
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0115-distinct-subsequences](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0115-distinct-subsequences/) | Hard |
 | [0132-palindrome-partitioning-ii](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0132-palindrome-partitioning-ii/) | Hard |
 | [0312-burst-balloons](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0312-burst-balloons/) | Hard |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
