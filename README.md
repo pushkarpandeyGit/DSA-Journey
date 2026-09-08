@@ -38,6 +38,7 @@ This repository is a record of my continuous learning and progress in DSA.
 | [0001-two-sum](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0001-two-sum/) | Easy |
 | [0018-4sum](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0312-burst-balloons](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0312-burst-balloons/) | Hard |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
@@ -77,6 +78,7 @@ This repository is a record of my continuous learning and progress in DSA.
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1707-maximum-xor-with-an-element-from-array/) | Hard |
@@ -92,6 +94,7 @@ This repository is a record of my continuous learning and progress in DSA.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1048-longest-string-chain](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1048-longest-string-chain/) | Medium |
 ## String
@@ -233,4 +236,13 @@ This repository is a record of my continuous learning and progress in DSA.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0287-find-the-duplicate-number/) | Medium |
 <!---LeetCode Topics End-->
