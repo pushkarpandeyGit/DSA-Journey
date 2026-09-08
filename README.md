@@ -129,6 +129,7 @@ This repository is a record of my continuous learning and progress in DSA.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
+| [3870-count-commas-in-range](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/3870-count-commas-in-range/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Binary Indexed Tree
