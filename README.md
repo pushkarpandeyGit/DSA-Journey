@@ -90,6 +90,7 @@ This repository is a record of my continuous learning and progress in DSA.
 | [0018-4sum](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1048-longest-string-chain](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1048-longest-string-chain/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -179,6 +180,7 @@ This repository is a record of my continuous learning and progress in DSA.
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0876-middle-of-the-linked-list](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
