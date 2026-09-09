@@ -139,6 +139,7 @@ This repository is a record of my continuous learning and progress in DSA.
 | [0202-happy-number](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0202-happy-number/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3870-count-commas-in-range](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/3870-count-commas-in-range/) | Easy |
+| [3871-count-commas-in-range-ii](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Binary Indexed Tree
