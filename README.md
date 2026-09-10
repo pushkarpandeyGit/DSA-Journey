@@ -43,6 +43,7 @@ This repository is a record of my continuous learning and progress in DSA.
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1043-partition-array-for-maximum-sum](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1043-partition-array-for-maximum-sum/) | Medium |
 | [1048-longest-string-chain](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1048-longest-string-chain/) | Medium |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
@@ -171,6 +172,7 @@ This repository is a record of my continuous learning and progress in DSA.
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [1004-max-consecutive-ones-iii](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -231,6 +233,7 @@ This repository is a record of my continuous learning and progress in DSA.
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Rolling Hash
@@ -251,6 +254,7 @@ This repository is a record of my continuous learning and progress in DSA.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
 | ------- | ------- |
