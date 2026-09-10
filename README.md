@@ -43,6 +43,7 @@ This repository is a record of my continuous learning and progress in DSA.
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1043-partition-array-for-maximum-sum](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1043-partition-array-for-maximum-sum/) | Medium |
 | [1048-longest-string-chain](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1048-longest-string-chain/) | Medium |
@@ -69,6 +70,7 @@ This repository is a record of my continuous learning and progress in DSA.
 | [0202-happy-number](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0202-happy-number/) | Easy |
 | [0208-implement-trie-prefix-tree](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1048-longest-string-chain](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1048-longest-string-chain/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
@@ -172,6 +174,7 @@ This repository is a record of my continuous learning and progress in DSA.
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0904-fruit-into-baskets](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 ## Matrix
