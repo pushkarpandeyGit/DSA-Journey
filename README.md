@@ -79,6 +79,7 @@ This repository is a record of my continuous learning and progress in DSA.
 | [0992-subarrays-with-k-different-integers](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1048-longest-string-chain](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1048-longest-string-chain/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
@@ -126,6 +127,7 @@ This repository is a record of my continuous learning and progress in DSA.
 | [0940-distinct-subsequences-ii](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1048-longest-string-chain](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1048-longest-string-chain/) | Medium |
 | [1106-parsing-a-boolean-expression](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1106-parsing-a-boolean-expression/) | Hard |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1392-longest-happy-prefix](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1392-longest-happy-prefix/) | Hard |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 ## Dynamic Programming
@@ -189,6 +191,7 @@ This repository is a record of my continuous learning and progress in DSA.
 | [0992-subarrays-with-k-different-integers](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
