@@ -48,6 +48,7 @@ This repository is a record of my continuous learning and progress in DSA.
 | [1004-max-consecutive-ones-iii](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1043-partition-array-for-maximum-sum](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1043-partition-array-for-maximum-sum/) | Medium |
 | [1048-longest-string-chain](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1048-longest-string-chain/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
@@ -75,6 +76,7 @@ This repository is a record of my continuous learning and progress in DSA.
 | [0904-fruit-into-baskets](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1048-longest-string-chain](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1048-longest-string-chain/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
@@ -147,6 +149,7 @@ This repository is a record of my continuous learning and progress in DSA.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0202-happy-number/) | Easy |
+| [1248-count-number-of-nice-subarrays](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3870-count-commas-in-range](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/3871-count-commas-in-range-ii/) | Medium |
@@ -182,6 +185,7 @@ This repository is a record of my continuous learning and progress in DSA.
 | [0904-fruit-into-baskets](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -243,6 +247,7 @@ This repository is a record of my continuous learning and progress in DSA.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Rolling Hash
