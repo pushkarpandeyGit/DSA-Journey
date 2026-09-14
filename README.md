@@ -41,6 +41,7 @@ This repository is a record of my continuous learning and progress in DSA.
 | [0287-find-the-duplicate-number](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0312-burst-balloons](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0312-burst-balloons/) | Hard |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
+| [0525-contiguous-array](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
@@ -77,6 +78,7 @@ This repository is a record of my continuous learning and progress in DSA.
 | [0202-happy-number](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0202-happy-number/) | Easy |
 | [0208-implement-trie-prefix-tree](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
+| [0525-contiguous-array](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0930-binary-subarrays-with-sum/) | Medium |
@@ -260,6 +262,7 @@ This repository is a record of my continuous learning and progress in DSA.
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0525-contiguous-array](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1004-max-consecutive-ones-iii/) | Medium |
