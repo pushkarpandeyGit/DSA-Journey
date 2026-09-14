@@ -48,6 +48,7 @@ This repository is a record of my continuous learning and progress in DSA.
 | [0835-image-overlap](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0835-image-overlap/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [0974-subarray-sums-divisible-by-k](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1043-partition-array-for-maximum-sum](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1043-partition-array-for-maximum-sum/) | Medium |
@@ -82,6 +83,7 @@ This repository is a record of my continuous learning and progress in DSA.
 | [0560-subarray-sum-equals-k](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [0974-subarray-sums-divisible-by-k](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1048-longest-string-chain](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1048-longest-string-chain/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
@@ -265,6 +267,7 @@ This repository is a record of my continuous learning and progress in DSA.
 | [0525-contiguous-array](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [0974-subarray-sums-divisible-by-k](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/3903-smallest-stable-index-i/) | Easy |
