@@ -41,6 +41,7 @@ This repository is a record of my continuous learning and progress in DSA.
 | [0287-find-the-duplicate-number](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0312-burst-balloons](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0312-burst-balloons/) | Hard |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
+| [0503-next-greater-element-ii](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0525-contiguous-array](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0643-maximum-average-subarray-i/) | Easy |
@@ -188,6 +189,7 @@ This repository is a record of my continuous learning and progress in DSA.
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0503-next-greater-element-ii](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1106-parsing-a-boolean-expression](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1106-parsing-a-boolean-expression/) | Hard |
 ## Recursion
@@ -323,4 +325,8 @@ This repository is a record of my continuous learning and progress in DSA.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0836-rectangle-overlap/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0503-next-greater-element-ii](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0503-next-greater-element-ii/) | Medium |
 <!---LeetCode Topics End-->
