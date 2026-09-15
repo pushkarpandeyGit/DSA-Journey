@@ -98,6 +98,7 @@ This repository is a record of my continuous learning and progress in DSA.
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -121,6 +122,7 @@ This repository is a record of my continuous learning and progress in DSA.
 | [0287-find-the-duplicate-number](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1048-longest-string-chain](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1048-longest-string-chain/) | Medium |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -138,6 +140,7 @@ This repository is a record of my continuous learning and progress in DSA.
 | [1106-parsing-a-boolean-expression](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1106-parsing-a-boolean-expression/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1392-longest-happy-prefix](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1392-longest-happy-prefix/) | Hard |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -151,6 +154,7 @@ This repository is a record of my continuous learning and progress in DSA.
 | [1048-longest-string-chain](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1048-longest-string-chain/) | Medium |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
