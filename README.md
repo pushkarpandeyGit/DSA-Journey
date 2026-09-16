@@ -155,6 +155,7 @@ This repository is a record of my continuous learning and progress in DSA.
 | [1048-longest-string-chain](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1048-longest-string-chain/) | Medium |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
@@ -169,6 +170,7 @@ This repository is a record of my continuous learning and progress in DSA.
 | [0202-happy-number](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0202-happy-number/) | Easy |
 | [0836-rectangle-overlap](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0836-rectangle-overlap/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3870-count-commas-in-range](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/3871-count-commas-in-range-ii/) | Medium |
@@ -278,6 +280,7 @@ This repository is a record of my continuous learning and progress in DSA.
 | [0974-subarray-sums-divisible-by-k](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Rolling Hash
@@ -336,4 +339,8 @@ This repository is a record of my continuous learning and progress in DSA.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0901-online-stock-span](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0901-online-stock-span/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 <!---LeetCode Topics End-->
