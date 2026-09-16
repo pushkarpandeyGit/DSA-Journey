@@ -46,6 +46,7 @@ This repository is a record of my continuous learning and progress in DSA.
 | [0560-subarray-sum-equals-k](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
+| [0735-asteroid-collision](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0735-asteroid-collision/) | Medium |
 | [0835-image-overlap](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0835-image-overlap/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0930-binary-subarrays-with-sum/) | Medium |
@@ -111,6 +112,7 @@ This repository is a record of my continuous learning and progress in DSA.
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0735-asteroid-collision](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0735-asteroid-collision/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -192,6 +194,7 @@ This repository is a record of my continuous learning and progress in DSA.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0503-next-greater-element-ii](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0735-asteroid-collision](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0735-asteroid-collision/) | Medium |
 | [0901-online-stock-span](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0901-online-stock-span/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1106-parsing-a-boolean-expression](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1106-parsing-a-boolean-expression/) | Hard |
