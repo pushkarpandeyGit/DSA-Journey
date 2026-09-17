@@ -38,6 +38,7 @@ This repository is a record of my continuous learning and progress in DSA.
 | [0001-two-sum](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0001-two-sum/) | Easy |
 | [0018-4sum](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0084-largest-rectangle-in-histogram](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0287-find-the-duplicate-number](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0312-burst-balloons](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0312-burst-balloons/) | Hard |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
@@ -199,6 +200,7 @@ This repository is a record of my continuous learning and progress in DSA.
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0402-remove-k-digits](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0402-remove-k-digits/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0735-asteroid-collision](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0735-asteroid-collision/) | Medium |
@@ -346,6 +348,7 @@ This repository is a record of my continuous learning and progress in DSA.
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0402-remove-k-digits](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0402-remove-k-digits/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0901-online-stock-span](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0901-online-stock-span/) | Medium |
@@ -358,4 +361,8 @@ This repository is a record of my continuous learning and progress in DSA.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
+## Range Minimum/Maximum Query
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 <!---LeetCode Topics End-->
