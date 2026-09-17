@@ -58,6 +58,7 @@ This repository is a record of my continuous learning and progress in DSA.
 | [1248-count-number-of-nice-subarrays](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1707-maximum-xor-with-an-element-from-array/) | Hard |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
@@ -92,6 +93,7 @@ This repository is a record of my continuous learning and progress in DSA.
 | [1248-count-number-of-nice-subarrays](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -159,6 +161,7 @@ This repository is a record of my continuous learning and progress in DSA.
 | [1043-partition-array-for-maximum-sum](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1043-partition-array-for-maximum-sum/) | Medium |
 | [1048-longest-string-chain](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1048-longest-string-chain/) | Medium |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
@@ -220,6 +223,7 @@ This repository is a record of my continuous learning and progress in DSA.
 | [1004-max-consecutive-ones-iii](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -310,6 +314,7 @@ This repository is a record of my continuous learning and progress in DSA.
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
 | ------- | ------- |
