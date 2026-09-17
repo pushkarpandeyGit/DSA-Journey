@@ -39,6 +39,7 @@ This repository is a record of my continuous learning and progress in DSA.
 | [0018-4sum](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0084-largest-rectangle-in-histogram](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0085-maximal-rectangle](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0085-maximal-rectangle/) | Hard |
 | [0287-find-the-duplicate-number](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0312-burst-balloons](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0312-burst-balloons/) | Hard |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
@@ -154,6 +155,7 @@ This repository is a record of my continuous learning and progress in DSA.
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0085-maximal-rectangle](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0085-maximal-rectangle/) | Hard |
 | [0115-distinct-subsequences](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0115-distinct-subsequences/) | Hard |
 | [0132-palindrome-partitioning-ii](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0132-palindrome-partitioning-ii/) | Hard |
 | [0312-burst-balloons](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0312-burst-balloons/) | Hard |
@@ -201,6 +203,7 @@ This repository is a record of my continuous learning and progress in DSA.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0085-maximal-rectangle](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0085-maximal-rectangle/) | Hard |
 | [0402-remove-k-digits](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0402-remove-k-digits/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0735-asteroid-collision](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0735-asteroid-collision/) | Medium |
@@ -230,6 +233,7 @@ This repository is a record of my continuous learning and progress in DSA.
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0085-maximal-rectangle](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0085-maximal-rectangle/) | Hard |
 | [0835-image-overlap](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0835-image-overlap/) | Medium |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
@@ -349,6 +353,7 @@ This repository is a record of my continuous learning and progress in DSA.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0085-maximal-rectangle](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0085-maximal-rectangle/) | Hard |
 | [0402-remove-k-digits](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0402-remove-k-digits/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0901-online-stock-span](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0901-online-stock-span/) | Medium |
