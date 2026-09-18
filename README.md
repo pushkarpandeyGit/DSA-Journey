@@ -96,6 +96,7 @@ This repository is a record of my continuous learning and progress in DSA.
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -105,6 +106,7 @@ This repository is a record of my continuous learning and progress in DSA.
 | [0402-remove-k-digits](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0402-remove-k-digits/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Bit Manipulation
@@ -150,6 +152,7 @@ This repository is a record of my continuous learning and progress in DSA.
 | [1106-parsing-a-boolean-expression](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1106-parsing-a-boolean-expression/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1392-longest-happy-prefix](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1392-longest-happy-prefix/) | Hard |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 ## Dynamic Programming
@@ -173,6 +176,7 @@ This repository is a record of my continuous learning and progress in DSA.
 | ------- | ------- |
 | [0018-4sum](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0018-4sum/) | Medium |
 | [1048-longest-string-chain](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1048-longest-string-chain/) | Medium |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 ## Math
