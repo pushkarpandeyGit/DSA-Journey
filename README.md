@@ -138,6 +138,7 @@ This repository is a record of my continuous learning and progress in DSA.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0022-generate-parentheses](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0022-generate-parentheses/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0038-count-and-say](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0038-count-and-say/) | Medium |
 | [0076-minimum-window-substring](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0076-minimum-window-substring/) | Hard |
@@ -158,6 +159,7 @@ This repository is a record of my continuous learning and progress in DSA.
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0022-generate-parentheses/) | Medium |
 | [0085-maximal-rectangle](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0085-maximal-rectangle/) | Hard |
 | [0115-distinct-subsequences](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0115-distinct-subsequences/) | Hard |
 | [0132-palindrome-partitioning-ii](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0132-palindrome-partitioning-ii/) | Hard |
@@ -266,6 +268,7 @@ This repository is a record of my continuous learning and progress in DSA.
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0022-generate-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -376,4 +379,8 @@ This repository is a record of my continuous learning and progress in DSA.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
