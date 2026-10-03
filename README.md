@@ -38,6 +38,7 @@ This repository is a record of my continuous learning and progress in DSA.
 | [0001-two-sum](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0001-two-sum/) | Easy |
 | [0018-4sum](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0085-maximal-rectangle/) | Hard |
 | [0287-find-the-duplicate-number](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -327,6 +328,7 @@ This repository is a record of my continuous learning and progress in DSA.
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0704-binary-search](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0704-binary-search/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1004-max-consecutive-ones-iii/) | Medium |
