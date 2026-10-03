@@ -48,6 +48,7 @@ This repository is a record of my continuous learning and progress in DSA.
 | [0560-subarray-sum-equals-k](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
+| [0704-binary-search](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0704-binary-search/) | Easy |
 | [0735-asteroid-collision](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0735-asteroid-collision/) | Medium |
 | [0835-image-overlap](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0835-image-overlap/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -327,6 +328,7 @@ This repository is a record of my continuous learning and progress in DSA.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0704-binary-search](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/0704-binary-search/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/pushkarpandeyGit/DSA-Journey/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 ## Pigeonhole Principle
